@@ -10,10 +10,10 @@ def main():
     # this function calculates the area and perimeter
 
     print("If a rectangle has the dimensions: ")
-    print("5cm x 3cm")
+    print("5 cm x 3 cm")
     print("")
-    print("Area is {}cm².".format(3 * 5))
-    print("Perimeter is {}cm.".format(2 * (3 + 5)))
+    print("Area is {} cm².".format(3 * 5))
+    print("Perimeter is {} cm.".format(2 * (3 + 5)))
     print("Done.")
 
 
